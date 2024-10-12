@@ -1,21 +1,21 @@
-# ÁýPT
-ÁýÁß·ÂÀÇ 'Áý' + °³ÀÎ Æ®·¹ÀÌ´×ÀÇ 'PT'
+# ì§‘PT
+ì§‘ì¤‘ë ¥ì˜ 'ì§‘' + ê°œì¸ íŠ¸ë ˆì´ë‹ì˜ 'PT'
 
 ## Team members
-±è½Â¹Î ½Å³ª¶ó ÀÌÁö¿ø <br/>
-ÀÓÁö¿ø Á¶¼öÈ¯ Á¶¿øÁø <br/>
+ê¹€ìŠ¹ë¯¼ ì‹ ë‚˜ë¼ ì´ì§€ì› <br/>
+ìž„ì§€ì› ì¡°ìˆ˜í™˜ ì¡°ì›ì§„ <br/>
 
 
 ## Purpose
-1. ½Ç½Ã°£ Çàµ¿ ÀÎ½Ä ±â¹ÝÀÇ ÇÐ½À »óÅÂ ¸ð´ÏÅÍ¸µ ¼­ºñ½º 
-2. ¿Ã¹Ù¸¥ ÇÐ½À ÀÚ¼¼¸¦ À¯µµ
-3. ±³À° È¿À²¼º Çâ»ó <br/>
+1. ì‹¤ì‹œê°„ í–‰ë™ ì¸ì‹ ê¸°ë°˜ì˜ í•™ìŠµ ìƒíƒœ ëª¨ë‹ˆí„°ë§ ì„œë¹„ìŠ¤ 
+2. ì˜¬ë°”ë¥¸ í•™ìŠµ ìžì„¸ë¥¼ ìœ ë„
+3. êµìœ¡ íš¨ìœ¨ì„± í–¥ìƒ <br/>
 <img src="purpose.png" alt="poster" width="80%">
 
 
 ## Development environment
-Python, OpenCV, Yolov8, MediaPipe
-Webcam, Pycharm, Jupyter Notebook
+Python, OpenCV, Yolov8, MediaPipe <br/>
+Webcam, Pycharm, Jupyter Notebook <br/>
 
 ## Project Architecture
 <img src="archi.png" alt="poster" width="70%">
