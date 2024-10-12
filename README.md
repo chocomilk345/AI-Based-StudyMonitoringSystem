@@ -10,7 +10,7 @@
 1. 실시간 행동 인식 기반의 학습 상태 모니터링 서비스 
 2. 올바른 학습 자세를 유도
 3. 교육 효율성 향상 <br/>
-<img src="purpose.png" alt="poster" width="80%">
+<img src="purpose.png" alt="poster" width="70%">
 
 
 ## Development environment
