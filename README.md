@@ -13,7 +13,7 @@
 <img src="purpose.png" alt="poster" width="70%">
 
 
-## Development environment
+## Development Environment
 Python, OpenCV, Yolov8, MediaPipe <br/>
 Webcam, Pycharm, Jupyter Notebook <br/>
 
